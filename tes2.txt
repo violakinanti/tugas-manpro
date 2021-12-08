@@ -1,1 +1,3 @@
 ini file tes2 di tulis di repositori local
+
+tulisan kinan
